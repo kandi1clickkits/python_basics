@@ -18,7 +18,7 @@ SET PY_MM_VERSION=%MAJOR_VERSION%.%MINOR_VERSION%
 SET PY_LOCATION=C:\kandikits\python\%PY_VERSION%
 SET PY_DOWNLOAD_URL=https://www.python.org/ftp/python/%PY_VERSION%/python-%PY_VERSION%-embed-amd64.zip
 
-SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/build-your-own-chatgpt/releases/download/v1.0.0/python_basics.zip
+SET REPO_DOWNLOAD_URL=https://github.com/kandi1clickkits/python_basics/releases/download/v1.0.0/python_basics.zip
 SET REPO_DEPENDENCIES_URL=https://github.com/kandi1clickkits/python_basics/raw/main/requirements.txt
 SET REPO_NAME=python_basics.zip
 SET EXTRACTED_REPO_DIR=python_basics
